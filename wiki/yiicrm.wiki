@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+this project need improvement,it use a scalable mvc framework yii, it could be easy to enlarge to a rich function crm program.
+
+= Details =
+
+if you have any idea or want to join the project please contact 
+Adam
+MSN:goldlucifer@hotmail.com
