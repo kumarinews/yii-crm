@@ -1,0 +1,1 @@
+the project is for small to middle scale company, the first release  is a live project for a commercial service company who need to track the companies registered and remind the agents to renewal the companies
